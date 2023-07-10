@@ -1,0 +1,2 @@
+﻿2023-07-10 16:01:15.6385 INFO Before swapping: a = 5, b = 10
+2023-07-10 16:01:15.6948 INFO After swapping: a = 10, b = 5
