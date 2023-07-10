@@ -11,6 +11,7 @@ namespace NLogCRUDOperations
         static void Main(string[] args)
         {
             Console.WriteLine("....NLOG-CRUD OPERATIONS....");
+            ArrayListOperations.ArrayListCRUD();
             Console.ReadLine();
         }
     }
